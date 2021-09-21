@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faisalirulam
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently working and practicing with Python and R
 - 💞️ I’m looking to collaborate on Creative Projects
 - 📫 How to reach me faisalirulam@gmail.com
 
