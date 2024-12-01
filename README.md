@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @faisalirulam
-- ✨ Studying MSc CS with Specialization in AI at University of Kerala
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently working and practicing with Python and R
-- 💞️ I’m looking to collaborate on Creative Projects
-- 📫 How to reach me faisalirulam@gmail.com
-- 📫 Linked IN https://www.linkedin.com/in/muhammed-faisal-p-j-962633151/
-- 
-
-<!---
-faisalirulam/faisalirulam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m **Muhammed Faisal PJ**  
+- ✨ I’m currently working as a **Data Scientist & Software Engineer** at Techvantage Analytics  
+- 🎓 I hold an **MSc in Computer Science (AI Specialization)** from **University of Kerala**  
+- 👀 I’m passionate about **Machine Learning**, **Data Science**, and **AI-driven solutions**  
+- 🌱 I’m currently working with **Python**, **R**, and various AI/ML frameworks like **TensorFlow**, **PyTorch**, and **Scikit-learn**  
+- 💞️ I’m open to collaborating on **AI-based projects**, **ML applications**, and **Robotic solutions**  
+- 📫 You can reach me at: **faisalirulam@gmail.com**  
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/faisalpj/)  
+- 💻 GitHub: [github.com/faisalirulam](https://github.com/faisalirulam)  
